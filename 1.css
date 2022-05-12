@@ -1,0 +1,160 @@
+.ul1 {
+    list-style-type: none;
+    margin: auto;
+    border: 16px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    margin: -15px -15px;
+  }
+  
+  li {
+    float: left;
+    font-weight: bolder;
+  }
+
+
+  
+  .li  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    padding-top: 32px;
+    padding-left: 0px;
+
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: black;
+  }
+/*#bub{
+    display: block;
+    color:lightgray;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    padding-top: 32px;
+    padding-left: 40px;
+  }*/
+  .logo{
+    height: 35px;
+    width: 100%;
+    /*padding: 20px 16px;*/
+    padding-top: 25px;
+    padding-left: 15px;
+  }
+  .create{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 16px;
+    padding-left: 430px;
+    height: 100%;
+    width: 399px;
+
+  }
+  .n1{
+    display: block;
+    color: white;
+    text-align: center;
+    padding-bottom:  15px;
+    padding-right: 20px;
+    padding-top: 32px;
+    padding-left: 40px;
+  }
+  .EXPORE{
+    color: yellow;
+  }
+
+  body {
+      background-color: rgb(50, 49, 49);
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+    }
+
+    .ul2 {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: rgb(47, 46, 46);
+    }
+    
+    .bottom-bar {
+      float: left;
+    }
+    
+    .bottom-bar {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      padding-bottom: 100;
+      border-style: solid;
+      border-width: 1px;
+      border-color: rgb(100, 99, 99);
+    }
+    
+    .bottom-bar a:hover {
+      background-color: rgb(34, 34, 34);
+    }
+
+    .for{
+      color: white;
+      font-size: 25px;
+    }
+    .ul2 {
+      color: white;
+      margin: 0px -15px;
+      border-style: solid;
+      border-width: 1px;
+      border-color: rgb(100, 99, 99);
+      background-color: rgb(63, 63, 63);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row 
+      
+      
+    }
+    .center{
+      padding-left: 60px;
+      padding-top: 70px;
+      padding-bottom: 120px;
+      display: flex;
+      justify-content: flex-start;
+      flex-direction: column
+    }
+    .txt1{
+      font-size: 30px;
+      color: white;
+    }
+    .txt2{
+      font-weight:750;
+      font-size: larger;
+    }
+    .txt3{
+      padding-top: 24px;
+      color: white;
+      font-size: 23px;
+    }
+    .Sign_Up{
+      padding-top: 35px;
+      display: flex;
+      justify-content: flex-start;
+      flex-direction: row
+    }
+    .img2{
+      padding-left: 20px;
+    }
+    #spark{
+      color: lightgray;
+    }
+    .wave{
+      color: yellow;
+    }
+  
